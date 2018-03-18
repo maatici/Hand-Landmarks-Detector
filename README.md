@@ -13,8 +13,7 @@ You can follow the instructions [here](http://www.learnopencv.com/install-opencv
 
 Download Dlib from [here](http://dlib.net)
 
-Download this repository
-Edit CmakeLists.txt according to your Dlib directory
+Download files from this repository and edit CmakeLists.txt according to your Dlib directory
 
 Open a terminal and change the directory to this repository and run following commands:
 
