@@ -11,7 +11,7 @@ This project is developed on Ubuntu 16.04 by using:
 
 You can follow the instructions [here](http://www.learnopencv.com/install-opencv3-on-ubuntu/) to install OpenCV. After successful installation of OpenCV;
 
-Download Dlib from [here](http://dlib.net) 
+Download Dlib from [here](http://dlib.net)
 Download this repository
 Edit CmakeLists.txt according to your Dlib directory
 
